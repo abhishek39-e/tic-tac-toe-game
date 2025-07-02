@@ -1,0 +1,49 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  background-color: #121212;
+  color: #c7d2fe;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.square {
+  background-color: #1f2937;
+  color: #e0e7ff;
+  height: 10vh;
+  width: 10vh;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0.2rem;
+  border: 2px solid #374151;
+  border-radius: 8px;
+  transition: background-color 0.2s ease;
+}
+
+.square:hover {
+  background-color: #374151;
+  cursor: pointer;
+}
+
+.game {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  padding: 1rem;
+}
+
+.board-row {
+  display: flex;
+}
+
+.game-info ol {
+  list-style: none;
+  padding-left: 0;
+}
+
+.game-info li {
+  margin-bottom: 0.5rem;
+}
