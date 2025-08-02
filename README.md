@@ -1,4 +1,4 @@
-ssssssssd# Tic-Tac-Toe Game 🎮
+ssssssssssd# Tic-Tac-Toe Game 🎮
 
 A simple Tic-Tac-Toe game built with **React** on **CodeSandbox**.
 
