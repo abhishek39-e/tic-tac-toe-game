@@ -1,4 +1,4 @@
-jjjjjkjkkkmgk import "./styles.css";
+sdsjjjjjkjkkkmgk import "./styles.css";
 import { useState } from "react";
 
 function Square({ value, onSquareClick }) {
