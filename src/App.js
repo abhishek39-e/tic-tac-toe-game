@@ -1,4 +1,4 @@
-mgkimport "./styles.css";
+jkkkmgkimport "./styles.css";
 import { useState } from "react";
 
 function Square({ value, onSquareClick }) {
