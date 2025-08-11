@@ -2,7 +2,6 @@
 
 A simple Tic-Tac-Toe game built with **React** on **CodeSandbox**.
 
-
 ## Features
 - 2-player turn-based gameplay
 - Winner detection
@@ -23,3 +22,6 @@ A simple Tic-Tac-Toe game built with **React** on **CodeSandbox**.
 ---
 
 Made with ❤️ using React.
+
+
+
