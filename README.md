@@ -18,7 +18,6 @@ A simple Tic-Tac-Toe game built with **React** on **CodeSandbox**.
 1. Clone or open the sandbox.
 2. Play the game by taking turns.
 3. Click "Reset" to play again!
-
 ---
 
 Made with ❤️ using React.
