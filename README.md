@@ -3,7 +3,7 @@
 A simple Tic-Tac-Toe game built with **React** on **CodeSandbox**.
 
 ## Features
-- 2-player turn-based gameplay
+- 2-player turn-based gameplay.
 - Winner detection
 - Game reset option
 
