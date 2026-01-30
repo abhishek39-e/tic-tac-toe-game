@@ -9,7 +9,7 @@ A simple Tic-Tac-Toe game built with **React** on **CodeSandbox**.
 
 ## Tech Stack
 - ⚛️ React
-- 💻 CodeSandbox.
+- 💻 CodeSandbox
 
 ## Live Demo
 👉 [Play Now](https://codesandbox.io/p/github/abhishek39-e/tic-tac-toe-game)  *(replace with your sandbox link)*
