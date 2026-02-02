@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game 🎮
 
-A simple Tic-Tac-Toe game built with **React** on **CodeSandbox**.
+A simple Tic-Tac-Toe game built with **React** on **CodeSandbox**
 
 ## Features
 - 2-player turn-based gameplay
